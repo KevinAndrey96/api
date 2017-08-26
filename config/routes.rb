@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :viviendas
+  resources :computadors
   resources :automovils
   resources :eventos
   resources :cancions

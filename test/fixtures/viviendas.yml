@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  barrio: MyString
+  tipo: MyString
+  habitantes: 1
+
+two:
+  barrio: MyString
+  tipo: MyString
+  habitantes: 1

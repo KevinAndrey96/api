@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  marca: MyString
+  procesador: MyString
+  ram: 1
+
+two:
+  marca: MyString
+  procesador: MyString
+  ram: 1
